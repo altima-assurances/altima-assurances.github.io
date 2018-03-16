@@ -1,3 +1,3 @@
 # altima-assurances.github.io
 
-site github dédié au pages de maintenance
+https://altima-assurances.github.io/
