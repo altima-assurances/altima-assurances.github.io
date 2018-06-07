@@ -13,6 +13,12 @@ body {
   font-size: 12px;
 }
 
+.info{
+  font-size: 10px;
+  font-style: italic;
+  color: #a9875a;
+}
+
 .txt{
     font-size: 15px;
 }
